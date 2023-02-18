@@ -18,8 +18,8 @@ javascript: (function() {
 		var cb = function() {
 			window.jetzt.select();
 		};
-		addStyle('https://ds300.github.io/jetzt/jetzt.css');
-		addScript('https://ds300.github.io/jetzt/jetzt-solid.min.js',cb);
+		addStyle('https://krmbzds.github.io/jetzt/jetzt.css');
+		addScript('https://krmbzds.github.io/jetzt/jetzt-solid.min.js',cb);
 	} else {
 		window.jetzt.select();
 	}

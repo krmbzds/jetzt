@@ -5,7 +5,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     banner: '/*! jetzt '
       + '<%= grunt.template.today("yyyy-mm-dd") %>\n'
-      + '* https://ds300.github.io/jetzt/\n'
+      + '* https://krmbzds.github.io/jetzt/\n'
       + '* Copyright (c) <%= grunt.template.today("yyyy") %> '
       + 'David Sheldrick and contributors; Licensed Apache 2.0 */\n'
     // Task configuration.
@@ -29,7 +29,7 @@ module.exports = function(grunt) {
     , uglify: {
       options: {
         banner: '<%= banner %>'
-      }       
+      }
     	, 'jetzt-solid.min.js' : 'jetzt-solid.js'
     }
     , watch: {
@@ -42,7 +42,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-watch');
-  
+
   // Default task.
   grunt.registerTask('default', ['concat', 'uglify', 'watch']);
 

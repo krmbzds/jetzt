@@ -4,7 +4,7 @@
   "name": "jetzt",
   "description": "Speed Reading",
   "version": "1.2.0",
-  "homepage_url": "https://ds300.github.io/jetzt",
+  "homepage_url": "https://krmbzds.github.io/jetzt",
 
   "content_scripts": [
     {
@@ -36,11 +36,11 @@
              "48": "img/icon48.png",
              "128": "img/icon128.png" },
    "browser_action" : {
-       "default_icon" :  { 
+       "default_icon" :  {
             "19": "img/icon19.png",
             "38": "img/icon38.png"
        	},
-        "default_title" : "speed-read with jetzt"        
+        "default_title" : "speed-read with jetzt"
     },
     "background": {
 	    "scripts": ["background.js"],

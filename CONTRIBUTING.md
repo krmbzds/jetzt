@@ -2,9 +2,9 @@
 
 ## Issues
 
-[Open an issue](https://github.com/ds300/jetzt/issues?state=open) for anything you would like to see in jetzt, but please check other issues first.
+[Open an issue](https://github.com/krmbzds/jetzt/issues?state=open) for anything you would like to see in jetzt, but please check other issues first.
 
-We also have a [TODO wiki page](https://github.com/ds300/jetzt/wiki/TODO), where ideas are collected.
+We also have a [TODO wiki page](https://github.com/krmbzds/jetzt/wiki/TODO), where ideas are collected.
 
 ## Pull Requests
 

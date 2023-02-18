@@ -10,11 +10,11 @@ Here's what jetzt looks like in your browser:
 
 ### More Info
 
-- Read about [how to install](https://ds300.github.io/jetzt/#install) (Chrome extension and bookmarklet)
+- Read about [how to install](https://krmbzds.github.io/jetzt/#install) (Chrome extension and bookmarklet)
 
-- Consult the [usage instructions](https://ds300.github.io/jetzt/#use)
+- Consult the [usage instructions](https://krmbzds.github.io/jetzt/#use)
 
-- Check out the [online demo](http://ds300.github.com/jetzt/demo.html)
+- Check out the [online demo](http://krmbzds.github.com/jetzt/demo.html)
 
 ### Contributions
 
