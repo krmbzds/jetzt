@@ -129,7 +129,7 @@
     e.DEFAULT_OPTIONS = {
       target_wpm: 400,
       scale: 1,
-      dark: !1,
+      dark: 1,
       show_message: !1,
       modifiers: {
         normal: 1,
