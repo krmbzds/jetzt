@@ -67,7 +67,7 @@
     // if we change config structure in future versions, having this means
     // we can update users' persisted configs to match.
     config_version: CONFIG_VERSION,
-    target_wpm: 400,
+    target_wpm: 500,
     scale: 1,
     dark: true,
     selected_theme: 1,
