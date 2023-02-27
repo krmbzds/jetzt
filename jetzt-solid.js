@@ -1,4 +1,4 @@
-/*! jetzt 2023-02-20
+/*! jetzt 2023-02-27
 * https://krmbzds.github.io/jetzt/
 * Copyright (c) 2023 David Sheldrick and contributors; Licensed Apache 2.0 */
 (function (window) {
